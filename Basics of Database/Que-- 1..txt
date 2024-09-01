@@ -1,0 +1,19 @@
+Que--> 1. What do you understand By Database
+
+-->The DBMS allows users to store, retrieve, and edit data, and also provides core facilities to administer
+ the database. 
+
+-->They can be used to store and manage large amounts of structured and unstructured data, and they
+can support a wide range of activities, including data storage, data analysis, and data management. 
+
+-->Databases are typically controlled by a database management system (DBMS), which acts as an interface between the database 
+and its end users or programs. The DBMS allows users to store, retrieve, and edit data, and also provides core facilities to administer
+ the database. 
+
+-->There are many different types of databases, including relational databases, object-oriented databases, and NoSQL databases. 
+
+-->For example, graph databases highlight the relationships between various data points, storing relationships right next to the data itself. 
+
+-->This allows users to immediately see how various data points are connected to each other. 
+
+-->Databases are common for use cases big and small, from massive websites to small businesses or small groups of people.
